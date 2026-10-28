@@ -1,0 +1,6 @@
+{
+  "name": "WonderTots: Global Offline Educational Game",
+  "description": "An offline-first, child-safe educational game for Android and Web with 6 learning modules, multilingual audio/text, low-end device optimization, and Google Play Families compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
